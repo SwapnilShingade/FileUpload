@@ -1,0 +1,12 @@
+[
+{
+"type": "qrcode",
+"symbol": [
+{
+"seq": 0,
+"data": "HelloWorld I am Swapnil",
+"error": null
+}
+]
+}
+]
